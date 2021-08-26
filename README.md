@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Radar3759, a Full Stack bootcamp grad. 
-- 👀 I’m interested in entry level work, or team hacks
+- 👀 I’m interested in Junior Developer employment
 - 🌱 I’m currently in a Python Backend bootcamp
 - 💞️ I’m looking to collaborate on anything as long as you understand my skill level.
 - 📫 How to reach me ...https://www.linkedin.com/in/c-lacefield-0889031b1/
