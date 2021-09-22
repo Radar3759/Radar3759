@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Radar3759, a Full Stack bootcamp grad. 
 - 👀 I’m interested in Junior Developer employment
-- 🌱 I’m currently in a Python Backend (self taught) bootcamp
+- 🌱 I’m currently on Day 4 of 100 Days of Python Projects
 - 💞️ I’m looking to learn more about how Docker works
 - 📫 How to reach me ...https://www.linkedin.com/in/c-lacefield-0889031b1/
 
