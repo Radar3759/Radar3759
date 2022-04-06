@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Radar3759, a Full Stack bootcamp grad. 
-- 👀 I’m interested in Junior Developer employment
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently on Day 12 of 100 Days of Python Projects
-- 💞️ I need to know more tips for Loops and While statements
+- 💞️ I need to know more.
 - 📫 How to reach me ...https://www.linkedin.com/in/c-lacefield-0889031b1/
 
 <!---
