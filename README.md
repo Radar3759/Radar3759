@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Radar3759, a Full Stack bootcamp grad. I had a not great bootcamp experience in 2019/2020 and have been self learning since then with several sources. 
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently on Day 12 of 100 Days of Python Projects
+- 🌱 I’m currently learning Python
 - 💞️ I need to know more about tech vocabulary so I can ask questions more effectively
 - 📫 How to reach me ...https://www.linkedin.com/in/c-lacefield-0889031b1/
 
