@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Radar3759, a Full Stack bootcamp grad. I had a not great bootcamp experience in 2019/2020 and have been self learning since then with several sources. 
+- 👋 Hi, I’m @Radar3759
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I need to know more about tech vocabulary so I can ask questions more effectively
+- 🌱 I’m currently learning Python and Ruby
+- 💞️ I need to know more about Ahsoka Tano, the Seven Bates Bros of NC, Prohibition Era Pharmacies and Soda Fountains, and Chantilly Cake
 - 📫 How to reach me ...https://www.linkedin.com/in/c-lacefield-0889031b1/
 
 <!---
