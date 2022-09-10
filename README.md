@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **making my portfolio**
 
-- 👨‍💻 Some of my projects are available at [https://github.com/Radar3759](https://github.com/Radar3759)
+- 👨‍💻 Some of my other projects are available at [https://replit.com/@Radar3759](https://replit.com/@Radar3759)
 
 - 📫 How to reach me **any of the socials below**
 
-- ⚡ Fun fact **Once I stood at the tri-point of Norway, Finland, and Russia**
+- ⚡ Fun fact **once I hiked to the tri-point of Norway, Finland, and Russia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
