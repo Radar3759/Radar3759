@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **making my portfolio**
 
-- 👨‍💻 Some of my other projects are available at [https://replit.com/@Radar3759](https://replit.com/@Radar3759)
-
 - 📫 How to reach me **any of the socials below**
 
 - ⚡ Fun fact **once I hiked to the tri-point of Norway, Finland, and Russia**
