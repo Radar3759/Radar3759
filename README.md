@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Cal</h1>
-<h3 align="center">Conquering the path from Bootcamp to Software Developer.</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on **networking**
 
