@@ -15,7 +15,7 @@
 <a href="https://stackoverflow.com/users/radar3759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="radar3759" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/radar3759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="radar3759" height="30" width="40" /></a>
 <a href="https://duolingo.com/profile/Radar3759?via=share_profile_qr" target="blank"><img align="center" src="https://design.duolingo.com/cdb78a8bae9e67867cd0.svg" alt="duolingo logo" height="30" width="40" /></a>
-<a href="https://www.ancestry.com/profile/0814212c-0006-0000-0000-000000000000" target="blank"><<img align="center" src="https://img.icons8.com/?size=100&id=jRmjA1TGgpLs&format=png&color=000000" alt="ancestry logo" height="30" width="40"/a>
+<a href="https://www.ancestry.com/profile/0814212c-0006-0000-0000-000000000000" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=jRmjA1TGgpLs&format=png&color=000000" alt="ancestry logo" height="30" width="40"/a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
